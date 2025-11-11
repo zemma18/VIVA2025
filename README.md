@@ -1,13 +1,16 @@
-# VIVA2025
+# GBV & Survivor
 
-Il progetto VIVA affronta il divario di dati sulla violenza di genere (VIVA, Gender-Based Violence, GBV), analizzando le storie delle sopravvissute per definire scenari futuri e strategie di comunicazione che promuovano l'emancipazione femminile. Il corpus è basato su estratti di storie di sopravvissute tratte da fonti giornalistiche e televisive.
-# VIVA2025: Dataset
+Il progetto di ricerca  VIVA, vinto all'interno della progettualità annuale del Dipartimento di Studi Umanistici,Università IULM MILANO, propone un modo alternativo per  generare  dati testuali e al contempo contribuire all'individuazione dei pattern che definiscono i percorsi uscita dalla spirale della violenza di genere. Altro obiettivo della ricerca è colmare il gap sulla disponibilità di dati sulla tematica.
+
+VIVA analizza le storie delle sopravvissute per definire scenari futuri e strategie di comunicazione al fine di identificare best practices per riconoscere in anticipo situaizoni di potenziale disagioo pericolo. 
+# GBV & Survivor: Dataset
 
 ## Descrizione generale
 Questo dataset raccoglie e analizza casi di **violenza di genere** riportati in contesti diversi (es. lavorativi, istituzionali, familiari).  
+Il corpus è basato su estratti di storie di sopravvissute tratte da fonti giornalistiche e televisive, trasformati da audio a testo, sottoposti a un processo di pre-trattamento testuale ed elaborati con tecniche di NLP.
 Ogni record documenta un episodio, con informazioni testuali e metriche derivate da analisi semantiche e di sentiment.  
 
-L’obiettivo è supportare la ricerca sulla **prevenzione della violenza di genere**, partendo dalle narrazioni dei percorsi di uscita dalla spirale di violenza.per arrivare all'individuaizione esatto del punto della spirale in cui si trova l'individuo destinatario delel diverse forme violenze. Il data base è da usare come uno strumento oreintativo per una autovalutaizone della sua posizione all'interno della spirale di violenza.
+L’obiettivo è supportare la ricerca sulla **prevenzione della violenza di genere**, partendo dalle narrazioni dei percorsi di uscita dalla spirale di violenza per arrivare all'individuaizione esatto del punto della spirale in cui si trova l'individuo destinatario delel diverse forme violenze. Il data base è da usare come uno strumento oreintativo per una autovalutaizone della sua posizione all'interno della spirale di violenza.
 
 
 
@@ -54,7 +57,12 @@ Questo dataset è rilasciato sotto licenza **CC BY 4.0** (Creative Commons Attri
 Può essere riutilizzato e citato con attribuzione all’autore.
 
 ---
-
+## Team di Ricerca:
+-  Emma ZAVARRONE (Responsabile)
+- Alessia Forciniti
+- Elisa Pasino
+  
+--
 ## Citazione
 Se utilizzi questo dataset, cita come:
 Zavarrone E and Forciniti A. (2025). *GBV & Survivor: Dataset (v1.0)*. GitHub.
